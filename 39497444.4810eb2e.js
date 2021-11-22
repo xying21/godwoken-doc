@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{77:function(o){o.exports=JSON.parse('{"allTagsPath":"/godwoken-doc/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/godwoken-doc/blog/tags/docusaurus"}')}}]);
