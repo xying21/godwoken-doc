@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{92:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"sidebar2":[{"type":"link","label":"Godwoken Introduction","href":"/godwoken-doc/"}]},"permalinkToSidebar":{"/godwoken-doc/":"sidebar2"}}')}}]);
