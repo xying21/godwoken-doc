@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{78:function(o){o.exports=JSON.parse('{"allTagsPath":"/godwoken-doc/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/godwoken-doc/blog/tags/facebook"}')}}]);
